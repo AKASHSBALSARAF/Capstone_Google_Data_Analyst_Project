@@ -70,7 +70,7 @@ Aggregated data to answer our questions:
 
 ![Average Ride Duration](images/average_ride_duration.png)  
 
-> **Insight:** Members tend to take slightly longer rides (~10.2 min) compared to Casual riders (~9 min).  
+> **Insight:** Casual riders tend to take slightly longer rides (~10.2 min) compared to Members (~9 min).  
 
 ---
 
