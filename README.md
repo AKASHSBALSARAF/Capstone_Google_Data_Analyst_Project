@@ -1,5 +1,5 @@
 # 🚴 Cyclist Ride Patterns Analysis
-(https://i.pinimg.com/736x/d1/d1/8a/d1d18a0a029f8d3da182e71feda025a9.jpg)
+![Cool Image](https://i.pinimg.com/736x/d1/d1/8a/d1d18a0a029f8d3da182e71feda025a9.jpg)
 
 Welcome to the **Cyclist Ride Patterns Analysis** project!  
 Here, we explore how city residents use bike sharing services and what insights we can draw from members vs casual riders. This analysis follows the **Coursera Data Analytics Specialization workflow**: **Ask → Prepare → Process → Analyze → Share**.
