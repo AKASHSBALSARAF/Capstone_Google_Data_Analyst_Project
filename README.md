@@ -133,18 +133,6 @@ Aggregated data to answer our questions:
 - Peak ride hours align with commute times: 16:00–18:00.  
 - Visualizations can inform station placement, promotions, and city planning.  
 
-**Repository Structure:**
-├─ notebooks/
-│ └─ Cyclist_Analysis.ipynb
-├─ images/
-│ ├─ average_ride_duration.png
-│ ├─ ride_frequency_day.png
-│ ├─ ride_time_distribution.png
-│ ├─ ride_start_scatter.png
-│ ├─ ride_start_map.png
-│ └─ ride_time_user_type.png
-└─ README.md
-
 
 ---
 
